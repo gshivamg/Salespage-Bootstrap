@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+#footer{
+    filter: drop-shadow(2px 2px 20px cyan);
+}
+#pricingcard:hover{
+    filter: drop-shadow(2px 2px 20px cyan);
+}
+#pricingtable:hover{
+    filter: drop-shadow(2px 2px 20px cyan);
+}
+
